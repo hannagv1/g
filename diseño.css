@@ -1,0 +1,50 @@
+h1 {
+	text-align: center;
+	font-size: 35px;
+}
+
+p {
+	text-align: justify;
+	font-size: 15px;
+	margin: 5px;
+}	
+
+th {
+	text-align: center;
+}	
+
+.primero {
+	text-align: left;
+}	
+
+
+table, tr,th, td {
+	margin-left:auto;
+	margin-right: auto;
+	border: solid black 1px;
+	font-size: 15px;
+}
+
+li {
+	text-align: justify;
+	font-size: 20px;
+	margin: 5px;
+}
+
+
+.segundo {
+	text-align: justify;
+	font-size: 15px;
+	margin: 5px;
+}	
+
+#f1 {
+	display:block;
+	margin:auto;
+	width: 300px;
+	
+}
+
+#f2 {
+	width: 100px;
+}	
